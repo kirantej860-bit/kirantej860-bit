@@ -1,13 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7c3aed&height=220&section=header&text=M%20Tej%20Kiran&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20AI%20Enthusiast%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7c3aed&height=200&section=header&text=M%20Tej%20Kiran&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20AI%20Integration%20Specialist%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=17" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=600&color=00D4FF&center=true&vCenter=true&multiline=true&width=850&height=110&lines=🚀+DevOps+%2B+AI+Engineer+from+India;☁️+Cloud+Infrastructure+%7C+CI%2FCD+%7C+MLOps;🤖+Integrating+AI+into+DevOps+Pipelines;⚡+Automating+Everything+with+Code)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=600&color=00D4FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🚀+DevOps+%2B+AI+Engineer+from+Bangalore%2C+India;☁️+Cloud+Infrastructure+%7C+CI%2FCD+%7C+MLOps;🤖+Integrating+AI+into+DevOps+Pipelines;⚡+Automate+Everything+%7C+Deploy+Anywhere)](https://git.io/typing-svg)
 
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kirantej860-bit&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/kirantej860-bit?style=for-the-badge&color=7c3aed&labelColor=0d1117&label=FOLLOWERS)
+[![GitHub followers](https://img.shields.io/github/followers/kirantej860-bit?style=for-the-badge&color=7c3aed&labelColor=0d1117&label=FOLLOWERS)](https://github.com/kirantej860-bit)
+[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-✅%20Available-00d4ff?style=for-the-badge&labelColor=0d1117)](https://linkedin.com/in/kirantej860)
 
 </div>
 
@@ -16,13 +17,13 @@
 ## 🧑‍💻 About Me
 
 ```yaml
-👤 Name       : M Tej Kiran
-💼 Role       : DevOps Engineer & Full Stack Developer
-📍 Location   : Bangalore, India 🇮🇳
-🌐 Website    : gotit4all.com
-🎯 Focus      : Cloud | CI/CD Pipelines | Docker | Kubernetes | AI Integration
-🤝 Status     : Open to exciting DevOps + AI opportunities 🚀
-💡 Philosophy : "Automate everything. Deploy anywhere. Scale infinitely."
+👤  Name        : M Tej Kiran
+💼  Role        : DevOps Engineer & Full Stack Developer
+📍  Location    : Bangalore, India 🇮🇳
+🌐  Website     : gotit4all.com
+🎯  Expertise   : Cloud | CI/CD | Docker | Kubernetes | AI Integration
+🤝  Status      : Open to DevOps + AI Engineering Opportunities 🚀
+💡  Philosophy  : "Automate everything. Deploy anywhere. Scale infinitely."
 ```
 
 ---
@@ -50,7 +51,7 @@
 ### 🤖 AI & Machine Learning
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/Anthropic_Claude-7c3aed?style=for-the-badge&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude_AI-7c3aed?style=for-the-badge&logo=anthropic&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
@@ -59,6 +60,7 @@
 ### 💻 Languages & Frameworks
 <p align="left">
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
@@ -70,7 +72,6 @@
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DockerHub-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
 ---
@@ -81,10 +82,11 @@
 
 | 🗂️ Project | 🛠️ Tech | 📝 Description |
 |---|---|---|
-| [🐳 DockerHub → GitHub](https://github.com/kirantej860-bit/dockerhub-to-github) | Docker, GitHub Actions | Pull images from DockerHub & push to GitHub |
-| [☕ Java Docker Project](https://github.com/kirantej860-bit/java-project-docker) | Java, Docker, Maven | Containerized Java app with Maven build tool |
-| [🔄 Jenkins CI → GitHub](https://github.com/kirantej860-bit/jenkins-ci-to-github) | Jenkins, CI/CD | Automated CI pipeline pushing to GitHub |
+| [🐳 DockerHub → GitHub](https://github.com/kirantej860-bit/dockerhub-to-github) | Docker, GitHub Actions | Pull images from DockerHub & push to GitHub registry |
+| [☕ Java Docker + Maven](https://github.com/kirantej860-bit/java-project-docker) | Java, Docker, Maven | Containerized Java app with Maven build automation |
+| [🔄 Jenkins CI Pipeline](https://github.com/kirantej860-bit/jenkins-ci-to-github) | Jenkins, CI/CD | Automated CI pipeline with GitHub integration |
 | [🌐 Docker Web App](https://github.com/kirantej860-bit/dockerwebapp) | Docker, Web | Dockerized web application deployment |
+| [⚙️ Java Docker Maven](https://github.com/kirantej860-bit/javadocker-with-maven) | Java, Docker, CSS | Maven-powered Java containerization project |
 
 </div>
 
@@ -119,18 +121,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kirantej860-bit/kirantej860-bit/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kirantej860-bit/kirantej860-bit/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kirantej860-bit/kirantej860-bit/output/github-contribution-grid-snake-dark.svg">
-  </picture>
-</div>
-
----
-
 ## 🎯 Current Focus
 
 ```mermaid
@@ -145,13 +135,13 @@ mindmap
       GitHub Actions
       Maven Build Automation
     AI Integration
-      LLM in DevOps
-      Claude API
-      Intelligent Automation
+      LLM in DevOps Workflows
+      Claude API Automation
+      Intelligent Monitoring
     Containers
-      Docker
-      DockerHub
+      Docker & DockerHub
       Container Security
+      Multi-stage Builds
 ```
 
 ---
@@ -162,7 +152,7 @@ mindmap
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kirantej860)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kirantej860-bit)
-[![Website](https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://gotit4all.com)
+[![Website](https://img.shields.io/badge/Website-gotit4all.com-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://gotit4all.com)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kirantej860@gmail.com)
 
 </div>
@@ -173,6 +163,6 @@ mindmap
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:00d4ff,100:0d1117&height=120&section=footer" width="100%"/>
 
-*⭐ If you find my work interesting, consider giving a star to my repositories!*
+*⭐ If my work inspires you, consider starring my repositories — it means a lot!*
 
 </div>
