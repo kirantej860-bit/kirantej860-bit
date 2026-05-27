@@ -36,26 +36,31 @@
 
 ## 🧑‍🚀 About Me
 
-```yaml
-╔══════════════════════════════════════════════════════════════╗
-║                    M TEJ KIRAN - PROFILE                     ║
-╠══════════════════════════════════════════════════════════════╣
-║  👤  Name        : M Tej Kiran                               ║
-║  💼  Title       : DevOps Engineer & AI Integration Expert   ║
-║  📍  Location    : Bangalore, India 🇮🇳                       ║
-║  🏆  Experience  : 2+ Years in DevOps                        ║
-║  🎯  Expertise   : RAG | MCP | MLOps | Cloud | CI/CD         ║
-║  🤖  AI Skills   : LLM Pipelines | RAG Systems | MLOps       ║
-║  ☁️   Cloud      : AWS | GCP | Azure | Multi-Cloud           ║
-║  🔥  Status      : Open to Work — DevOps + AI Roles          ║
-║  💡  Philosophy  : "Infrastructure as Code. AI as Strategy." ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-<br/>
-
----
-
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>&#x1F4CB; Identity</h3>
+      <table>
+        <tr><td><b>&#x1F464; Name</b></td><td>M Tej Kiran</td></tr>
+        <tr><td><b>&#x1F4BC; Role</b></td><td>DevOps Engineer &amp; AI Integration Specialist</td></tr>
+        <tr><td><b>&#x1F3C6; Experience</b></td><td>2+ Years in DevOps</td></tr>
+        <tr><td><b>&#x1F4CD; Location</b></td><td>Bangalore, India &#x1F1EE;&#x1F1F3;</td></tr>
+        <tr><td><b>&#x2705; Status</b></td><td>&#x1F7E2; <b>Open to Work — DevOps + AI</b></td></tr>
+        <tr><td><b>&#x1F4A1; Motto</b></td><td><em>&quot;Infra as Code. AI as Strategy.&quot;</em></td></tr>
+      </table>
+    </td>
+    <td width="50%" valign="top">
+      <h3>&#x1F916; AI Specialisations</h3>
+      <ul>
+        <li>&#x1F50D; <b>RAG</b> — Retrieval-Augmented Generation pipelines</li>
+        <li>&#x1F517; <b>MCP</b> — Model Context Protocol · AI agents with tool-use</li>
+        <li>&#x2699;&#xFE0F; <b>MLOps</b> — ML lifecycle on Kubernetes · MLflow · Kubeflow</li>
+        <li>&#x1F680; <b>LLM Pipelines</b> — Production LLM deployments at scale</li>
+        <li>&#x1F9E0; <b>AI + DevOps</b> — Intelligent infra automation &amp; monitoring</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 ## 🛠️ Tech Arsenal
 
 <div align="center">
